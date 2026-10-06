@@ -1,4 +1,3 @@
-Name: M Sampriyan 
-SRN:R25EJ060
-Branch:CSIT A
-Course:Portfolio Building
+## Projects
+* **Portfolio Website**: A personal portfolio showcasing my projects and technical skills.
+* **LeetCode Solutions**: Solutions to data structure and algorithm problems.
